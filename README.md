@@ -4,17 +4,15 @@ A [Tidal Luna](https://github.com/Inrixia/TidaLuna) plugin that colors the playb
 
 ## Installing
 
-Install from this repo's latest release by adding the store link in **Luna Settings → Plugin Store**:
+1. Open **Luna Settings → Plugin Store** and paste this link into the **Install from URL** box:
 
-```
-https://github.com/StealthClobber/tidal-luna-color-matched-bar/releases/download/latest/store.json
-```
+   ```
+   https://github.com/StealthClobber/tidal-luna-color-matched-bar/releases/download/latest/store.json
+   ```
 
-or the plugin directly:
+2. The store appears in the list. Click **@luna/color-matched-bar** in it to install.
 
-```
-https://github.com/StealthClobber/tidal-luna-color-matched-bar/releases/download/latest/luna.color-matched-bar
-```
+
 ## Settings
 
 Open **Luna Settings → Plugins** and expand **@luna/color-matched-bar**:

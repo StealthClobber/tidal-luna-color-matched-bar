@@ -1,0 +1,13 @@
+{
+	"name": "@luna/color-matched-bar",
+	"description": "Colors the playback progress bar to match the current song's album cover.",
+	"author": {
+		"name": "StealthClobber"
+	},
+	"main": "./src/index.ts",
+	"type": "module",
+	"dependencies": {
+		"@vibrant/image-node": "4.0.4",
+		"node-vibrant": "4.0.3"
+	}
+}

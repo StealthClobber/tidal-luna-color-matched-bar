@@ -1,5 +1,5 @@
 {
-	"name": "@luna/color-matched-bar",
+	"name": "@stealth/color-matched-bar",
 	"description": "Colors the playback progress bar to match the current song's album cover.",
 	"author": {
 		"name": "StealthClobber"

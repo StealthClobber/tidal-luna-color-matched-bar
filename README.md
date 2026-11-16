@@ -10,12 +10,12 @@ A [Tidal Luna](https://github.com/Inrixia/TidaLuna) plugin that colors the playb
    https://github.com/StealthClobber/tidal-luna-color-matched-bar/releases/download/latest/store.json
    ```
 
-2. The store appears in the list. Click **@luna/color-matched-bar** in it to install.
+2. The store appears in the list. Click **@stealth/color-matched-bar** in it to install.
 
 
 ## Settings
 
-Open **Luna Settings → Plugins** and expand **@luna/color-matched-bar**:
+Open **Luna Settings → Plugins** and expand **@stealth/color-matched-bar**:
 
 | Setting | Default | What it does |
 | --- | --- | --- |
